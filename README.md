@@ -36,7 +36,7 @@ Generally speaking :
 
 Here is a non-exhaustive list of things you can do with custom modules.
 
-- To add Hooks / middleware : read [this](src/hooks/README.md)
+- To add Hooks / middleware : read the [hooks README](src/hooks/README.md)
 - To add reusible code / actions : read [this](src/actions/README.md)
 - To add new skills to the flow editor like a datepicker : inject them into [`index.ts`](src/backend/index.ts) - docs [here](https://botpress.com/docs/building-chatbots/developers/custom-modules#skills)  
 - To create bot templates for creating new bots : add them to [`src/bot-templates/`](src/bot-templates/) - docs [here](https://botpress.com/docs/building-chatbots/developers/custom-modules#bottemplates)
