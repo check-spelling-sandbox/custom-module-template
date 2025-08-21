@@ -3,7 +3,7 @@
 
 Custom Modules ⚡ supercharges ⚡ your Botpress chatbot building experience by adding in-chat capabilities and by customizing the chatbot editor to your liking.
 
-This Github template is meant as the starting point for building Botpress Custom Modules. You can find a non-exhaustive use-case list [here](#how-do-i-do-xyz?) as well as lots of references below.
+This Github template is meant as the starting point for building Botpress Custom Modules. You can find a non-exhaustive use-case list in [How do I do XYZ?](#how-do-i-do-xyz?) as well as lots of references below.
 
 ## Quick Start 
 
