@@ -34,7 +34,7 @@ Generally speaking :
 
 ## How do I do XYZ? 
 
-Here is a non-exhaustive list of things you can do with custom modules.
+This is a non-exhaustive list of things you can do with custom modules:
 
 - To add Hooks / middleware : read the [hooks README](src/hooks/README.md)
 - To add reusable code / actions : read [actions README](src/actions/README.md)
