@@ -18,7 +18,7 @@ This Github template is meant as the starting point for building Botpress Custom
 9. In the modules page, click unpack now next to your module's name. ![](3.png)
 10. Go back up to the list of Stable modules, and activate it by clicking the toggle next to the module's name. ![](4.png)
 11. Start editing a chatbot. notice the flag icon for the custom module.
-12. When you change your code, restart from from step 7.
+12. When you change your code, restart from step 7.
 
 
 ## (Advanced) Where's Hot Reload?
