@@ -22,7 +22,7 @@ This Github template is meant as the starting point for building Botpress Custom
 
 
 ## (Advanced) Where's Hot Reload?
-Botpress doesn't currently support hot reload for custom module development. If you want to make changes and check them often, we recommend you clone the main repo and follow the instructions found [here](https://botpress.com/docs/building-chatbots/developers/custom-modules#local-development-tips). Changes will be reflected upon restarting the botpress server.
+Botpress doesn't currently support hot reload for custom module development. If you want to make changes and check them often, we recommend you clone the main repo and follow the [Local Development Tips (Internet Archive link)](https://web.archive.org/web/20220706031741/https://botpress.com/docs/building-chatbots/developers/custom-modules#local-development-tips). Changes will be reflected upon restarting the botpress server.
 
 Generally speaking : 
 1) Clone the main repo. ``git clone https://github.com/botpress/botpress.git``
