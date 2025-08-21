@@ -40,7 +40,7 @@ Here is a non-exhaustive list of things you can do with custom modules.
 - To add reusible code / actions : read [this](src/actions/README.md)
 - To add new skills to the flow editor like a datepicker : inject them into [`index.ts`](src/backend/index.ts) - docs [here](https://botpress.com/docs/building-chatbots/developers/custom-modules#skills)  
 - To create bot templates for creating new bots : add them to [`src/bot-templates/`](src/bot-templates/) - docs [here](https://botpress.com/docs/building-chatbots/developers/custom-modules#bottemplates)
-- To create content types to be sent to your users : add them [here](src/views/lite/)
+- To create content types to be sent to your users : add them to [`src/views/lite/`](src/views/lite/)
 - To create a navigation page within botpress : add them [here](src/views/full/index.jsx)
 
 
