@@ -22,7 +22,7 @@ This Github template is meant as the starting point for building Botpress Custom
 
 
 ## (Advanced) Where's Hot Reload?
-Botpress doesn't currently support hot reload for custom module development. If you want to make changes and check them often, we recommend you clone the main repo and follow the [Local Development Tips (Internet Archive link)](https://web.archive.org/web/20220706031741/https://botpress.com/docs/building-chatbots/developers/custom-modules#local-development-tips). Changes will be reflected upon restarting the botpress server.
+Botpress doesn't currently support hot reload for custom module development. If you want to make changes and check them often, we recommend you clone the main repo and follow the [Local Development Tips (Internet Archive link)](https://web.archive.org/web/20220706031741/https://botpress.com/docs/building-chatbots/developers/custom-modules#local-development-tips). Changes will be reflected upon restarting the Botpress server.
 
 Generally speaking : 
 1) Clone the main repo. ``git clone https://github.com/botpress/botpress.git``
@@ -41,7 +41,7 @@ Here is a non-exhaustive list of things you can do with custom modules.
 - To add new [skills (Internet Archive link)](https://web.archive.org/web/20220706031741/https://botpress.com/docs/building-chatbots/developers/custom-modules#skills) to the flow editor like a datepicker : inject them into [`index.ts`](src/backend/index.ts)
 - To create [bot templates (Internet Archive link)](https://web.archive.org/web/20220706031741/https://botpress.com/docs/building-chatbots/developers/custom-modules#bottemplates) for creating new bots : add them to [`src/bot-templates/`](src/bot-templates/)
 - To create content types to be sent to your users : add them to [`src/views/lite/`](src/views/lite/)
-- To create a navigation page within botpress : add them to [`src/views/full/index.jsx`](src/views/full/index.jsx)
+- To create a navigation page within Botpress : add them to [`src/views/full/index.jsx`](src/views/full/index.jsx)
 
 
 ## Docs and Reference 
