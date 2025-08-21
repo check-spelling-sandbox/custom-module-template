@@ -3,11 +3,11 @@
 
 Custom Modules ⚡ supercharges ⚡ your Botpress chatbot building experience by adding in-chat capabilities and by customizing the chatbot editor to your liking.
 
-This Github template is meant as the starting point for building Botpress Custom Modules. You can find a non-exhaustive use-case list in [How do I do XYZ?](#how-do-i-do-xyz?) as well as lots of references below.
+This GitHub template is meant as the starting point for building Botpress Custom Modules. You can find a non-exhaustive use-case list in [How do I do XYZ?](#how-do-i-do-xyz?) as well as lots of references below.
 
 ## Quick Start 
 
-1. Click "Use this template" at the top of the Github repo or fork this repo.
+1. Click "Use this template" at the top of the GitHub repo or fork this repo.
 2. Make your changes in the code. See [How do I do XYZ?](#how-do-i-do-xyz?)
 3. To rename the package, change the folder name, the name field in [src/backend/index.ts](src/backend/index.ts) and the name field in [src/backend/index.ts](src/backend/index.ts)
 4. Build using ``npm run dockerBuild``. The build will be named "YOUR_PACKAGE_NAME.tgz" and be located in the root folder.
@@ -62,4 +62,4 @@ The bot making experience is smoother than the custom module building experience
 7) [Bot Templates](https://share.descript.com/view/b6OAuV8C86E)
 
 ### Example Custom Modules
-[Botpress Solutions Github Repo](https://github.com/botpress/solutions/tree/master/custom%20modules)
+[Botpress Solutions GitHub Repo](https://github.com/botpress/solutions/tree/master/custom%20modules)
