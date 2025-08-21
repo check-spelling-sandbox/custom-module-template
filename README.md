@@ -27,8 +27,8 @@ Botpress doesn't currently support hot reload for custom module development. If 
 Generally speaking : 
 1) Clone the main repo. ``git clone https://github.com/botpress/botpress.git``
 2) run ``yarn && yarn build`` in the main repo path.
-3) follow ["Module Templates"](https://botpress.com/docs/building-chatbots/developers/custom-modules#module-templates)
-4) Follow ["Local Development Tips"](https://botpress.com/docs/building-chatbots/developers/custom-modules#local-development-tips)
+3) follow ["Module Templates"](https://web.archive.org/web/20220706031741/https://botpress.com/docs/building-chatbots/developers/custom-modules#module-templates)
+4) Follow ["Local Development Tips"](https://web.archive.org/web/20220706031741/https://botpress.com/docs/building-chatbots/developers/custom-modules#local-development-tips)
 5) Use the command ``yarn start`` to start the Botpress server.
 6) To see changes, cancel the previous command, and use it again to restart the Botpress server and refresh your browser.
 
@@ -38,8 +38,8 @@ Here is a non-exhaustive list of things you can do with custom modules.
 
 - To add Hooks / middleware : read the [hooks README](src/hooks/README.md)
 - To add reusible code / actions : read [actions README](src/actions/README.md)
-- To add new skills to the flow editor like a datepicker : inject them into [`index.ts`](src/backend/index.ts) - docs [here](https://botpress.com/docs/building-chatbots/developers/custom-modules#skills)  
-- To create bot templates for creating new bots : add them to [`src/bot-templates/`](src/bot-templates/) - docs [here](https://botpress.com/docs/building-chatbots/developers/custom-modules#bottemplates)
+- To add new skills to the flow editor like a datepicker : inject them into [`index.ts`](src/backend/index.ts) - docs [here](https://web.archive.org/web/20220706031741/https://botpress.com/docs/building-chatbots/developers/custom-modules#skills)  
+- To create bot templates for creating new bots : add them to [`src/bot-templates/`](src/bot-templates/) - docs [here](https://web.archive.org/web/20220706031741/https://botpress.com/docs/building-chatbots/developers/custom-modules#bottemplates)
 - To create content types to be sent to your users : add them to [`src/views/lite/`](src/views/lite/)
 - To create a navigation page within botpress : add them to [`src/views/full/index.jsx`](src/views/full/index.jsx)
 
@@ -50,7 +50,7 @@ Pro tip :
 The bot making experience is smoother than the custom module building experience. If you can, make your changes in a Botpress Bot, then migrate the changes to your custom module code. 
 
 ### Documentation
-[Botpress Official Docs](https://botpress.com/docs/building-chatbots/developers/custom-modules)
+[Botpress Official Docs](https://web.archive.org/web/20220706031741/https://botpress.com/docs/building-chatbots/developers/custom-modules)
 
 ### Unofficial Video Series
 1) [Module Structure](https://share.descript.com/view/F7HWNQVbpEX)
